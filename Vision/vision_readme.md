@@ -25,3 +25,7 @@
 
 - **vision_module_bundles_TEST.ipynb**
   : 'vision_module_bundles.py' 모듈들이 잘 작동하는지 테스트하는 코드입니다.
+
+
+[reference]
+- https://github.com/niconielsen32/ComputerVision 
